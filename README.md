@@ -36,3 +36,7 @@ Ecco una anteprima di com'è l'interfaccia: a destra avete tutti i filtri, mentr
 
 # Errori e problemi
 Per eventuali problemi o errori per adesso aprite un issue o contattatemi a matteo.ercolani@gmail.com. Valuteremo se aprire un canale slack.
+
+# Credits
+Attenzione, i dati delle valutazioni sono stati presi da questo excel: http://www.fantamagazine.com/consigli-fantacalcio/algoritmo-evilzzx-20152016-stima-dei-prezzi-dei-giocatori-in-sede-dasta/
+
