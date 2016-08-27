@@ -32,7 +32,7 @@ Non ho un computer con windows a disposizione, quindi non riesco a fare una guid
 # Anteprima
 Ecco una anteprima di com'è l'interfaccia: a destra avete tutti i filtri, mentre a sinistra potete segnare come venduto (sold) il giocatore. (ricordatevi poi di cliccare salva in basso a destra)
 
-![Anteprima schermata giocatori](https://drive.google.com/file/d/0B0xPuH3mfS-fNUJRTVhWME0ybU0/view?usp=sharing)
+![Anteprima schermata giocatori](https://s13.postimg.org/wmewp6g0n/Schermata_2016_08_27_alle_16_52_10.png)
 
 # Errori e problemi
 Per eventuali problemi o errori per adesso aprite un issue o contattatemi a matteo.ercolani@gmail.com. Valuteremo se aprire un canale slack.
