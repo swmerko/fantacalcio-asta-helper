@@ -20,5 +20,6 @@ admin.site.site_header = 'Fantacalcio Asta Helper 2016/2017'
 
 urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),  # admin site
+    url(r'', include(admin.site.urls)),  # admin site
 ]
 
